@@ -1,4 +1,4 @@
-Hi Im Chill Krill and I am in highschool at the moment. I know Java and Python and learning SQL and R. I intend to learng how to work with databases and Machine learning and soon learn Bioinformatics.
+Hi Im Chill Krill and I am in highschool at the moment. I know Java and Python and learning SQL and R. I intend to learn how to work with Databases and Machine learning and soon learn Bioinformatics.
 <!--
 **chillkrill16/ChillKrill16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
